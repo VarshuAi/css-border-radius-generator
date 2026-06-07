@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Generate custom organic border mappings exporting border-radius codes.
+  name: css-border-radius-generator version: 1.0 type: Repository author: VarshuAi description: >   Generate custom organic border mappings exporting border-radius codes. primary_tech: CSS
 primary_tech: CSS
 ```
 
